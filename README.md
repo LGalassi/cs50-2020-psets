@@ -1,6 +1,6 @@
 # CS50x 2020
 
-This is a repository with my solutions for CS50x 2020 problem sets.
+This is a repository with my solutions for CS50x 2020's problem sets.
 
 ## Folder structure
 
