@@ -1,6 +1,6 @@
 # CS50x 2020
 
-This is a repository with my solutions for CS50x 2020's problem sets.
+This is a repository with my solutions for CS50x 2020's problem sets. For informations about the problem sets or the course itself go to https://cs50.harvard.edu/x/2020/.
 
 ## Folder structure
 
