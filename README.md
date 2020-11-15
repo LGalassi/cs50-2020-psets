@@ -33,6 +33,5 @@ psets/
 │   ├── houses/
 │   └── movies/
 └── pset8/
-    ├── finance/
-    └── homepage/
+    └── finance/
 ```
